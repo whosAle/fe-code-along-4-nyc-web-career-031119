@@ -42,7 +42,7 @@ figcaption {
 /* ID selector (apply to one unique element per page) */
 
 #logo { /* select elements with id="logo" */
-  background: aqua;
+  /*background: aqua;*/
 }
 
 /* Descendent Selector */
@@ -86,7 +86,7 @@ img, video, audio {
 .wrapper {
   width: 960px;
   margin: 0 auto;
-  background: #eee;
+  /*background: #eee;*/
 }
 
 .col-1 {
